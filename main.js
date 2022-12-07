@@ -1,4 +1,4 @@
-var sound_bulow  = new Audio("audios/bulowstr.wav");
+var sound_bulow  = new Audio("audios/bulowstr.mp3");
 var sound_basar  = new Audio("audios/turkische-basar-song.mp3");
 var img_basar = document.getElementById('img-basar');
 var img_bulow = document.getElementById('img-bulow');
